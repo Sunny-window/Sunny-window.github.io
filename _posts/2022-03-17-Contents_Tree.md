@@ -4,8 +4,6 @@ title: "Lender - Contents Tree"
 
 ---
 
-<h2> 아이디어 구상 </h2>
-Lender<br>
 
 <div>
 <h2> Content Tree <h2>
